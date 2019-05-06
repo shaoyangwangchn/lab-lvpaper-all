@@ -1,3 +1,4 @@
+# Five major papers
 [1].	Xuewei Zhang, Tiejun Lv, Yuan Ren, Wei Ni, Norman C. Beaulieu, and Y. Jay Guo, “Economical Caching for Scalable Videos in Cache-enabled Heterogeneous Networks,” IEEE Journal on Selected Areas in Communications, Accepted.<br/>
 [2].	Xuewei Zhang, Tiejun Lv, Wei Ni, John M. Cioffi, Norman C. Beaulieu, and Y. Jay Guo, “Energy-Efficient Caching for Scalable Videos in Heterogeneous Networks,” IEEE Journal on Selected Areas in Communications, vol. 36, no. 8, pp. 1802-1815, Aug. 2018.<br/>
 [3].	Tiejun Lv, Yuyu Ma, Jie Zeng, and and P. Takis Mathiopoulos, “Millimeter-Wave NOMA Transmission in Cellular M2M Communications for Internet of Things,” IEEE Internet of Things Journal, vol. 5, no. 3, pp. 1989-2000, Jun. 2018.<br/>
