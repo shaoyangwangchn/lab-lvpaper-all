@@ -1,6 +1,6 @@
-# 论文清单
+# Paper list
 
-## SCI文章：
+## SCI：
 [1].	Pingmu Huang, Yunqin Hao, Tiejun Lv, Jintao Xing, Jie Yang, and P. Takis Mathiopoulos, “Secure Beamforming Design in Relay-Assisted Internet of Things,” IEEE Internet of Things Journal, Accepted. <br/>
 [2].	Xuewei Zhang, Tiejun Lv, Yuan Ren, Wei Ni, Norman C. Beaulieu, and Y. Jay Guo, “Economical Caching for Scalable Videos in Cache-enabled Heterogeneous Networks,” IEEE Journal on Selected Areas in Communications, Accepted.<br/>
 [3].	Chiyang Xiao, Jie Zeng, Wei Ni, Xin Su, Ren Ping Liu, Tiejun Lv, and Jing Wang, “MIMO-NOMA for Ultra-Reliable Low-Latency Communications,” IEEE Journal on Selected Areas in Communications, vol. 37, no. 4, pp. 780-794, Apr. 2019.<br/>
@@ -87,7 +87,7 @@
 [84].	Yonghua Li, Zhiqiang He, Tiejun Lv, and Linjia Ru, “MIMO Capacity Bounds with Doubly Correlated Rician Channel in Geometrical Channel Model,” China Communications, vol. 7, no.5, pp. 9-13, Nov. 2010.<br/>
 [85].	Tiejun Lv, Guo Shuangbin and Xiao Xianci, “Study on Fractal Features of Modulation Signal,” Science China-Information Sciences, vol.44, no.2, pp. 152-158, Apr. 2001<br/>
 
-## EI期刊文章：
+## EI：
 [1].	Linli Zhao, Tiejun Lv and Yongwei Qiao, “Transmit-reference UWB System Based on m-sequence Codes,” Journal of China Universities of Posts and Telecommunications, vol.17, no.1, pp. 25-31, Feb. 2010.<br/>
 [2].	Li Yonghua, Tiejun Lv, Wu Xiaofei and Zhang Lin, “On the Bounds of Frequency-selective Channel Capacity with Doubly Correlated Geometrical MIMO Channel Model,” Journal of China Universities of Posts and Telecommunications, vol.17, no.2, pp. 8-13, April 2010.<br/>
 [3].	Xiang Yun, and Tiejun Lv, “Novel THP Algorithms with Minimum BER Criterion for MIMO Broadcast Communications,” Journal of China Universities of Posts and Telecommunications, vol.16, no.4, pp. 71-77, Aug. 2009.<br/>
@@ -106,7 +106,7 @@
 [16].	吕铁军，肖先赐，“基于调制信号细节特征的证据识别，” 电子对抗， vol.74, no.5, pp.7-11, 2000<br/>
 [17].	肖会兵，吕铁军，张跃， “掌上电脑集成无线通信功能的设计及实现，” 电子技术应用，vol. 28, no. 9, pp. 57-59, 2002<br/>
 
-## 国际会议文章：
+## Conference：
 [1].	Yuanyuan Ma, Tiejun Lv, Xuewei Zhang, Hui Gao, and Shui Yu, “High Energy Efficiency Transmission in MIMO Satellite Communications,” IEEE International Conference on Communication (ICC 2018), pp.1-6, May 2018, Kansas City, MO, USA.<br/>
 [2].	Mingfeng Ma, Tiejun Lv, and Xuewei Zhang, “Joint Cache Placement and Beamforming Design for Scalable Videos in C-RAN,” International Symposium on Wireless Communication Systems (ISWCS 2018), pp.1-6, Aug. 2018, Lisbon, Portugal.<br/>
 [3].	Ji Li, Hui Gao, Tiejun Lv, and Yueming Lu, “Deep reinforcement learning based computation offloading and resource allocation for MEC,” IEEE Wireless Communications and Networking Conference (WCNC 2018), pp.1-6, Apr. 2018, Barcelona, Spain.<br/>
@@ -284,6 +284,6 @@
 [175].	Tiejun Lv, and Jie Chen, “ML Estimation of Timing and Frequency Offset Using Multiple OFDM Symbols in OFDM Systems,” IEEE Global Telecommunications Conference (GLOBECOM 2003), pp. 2280-2284, December 2003, San Francisco, CA, United states<br/>
 [176].	Tiejun Lv, Huibing Xiao, and Peng Fei, “MMSE Estimation of OFDM Symbol Timing and Carrier Frequency Offset in Time-Varying Multipath Channels,” IEEE International Conference on Accoustics, Speech, and Signal (ICASSP 2003), pp. 704-707, April 2003, Hong Kong<br/>
 
-## 专著：
+## Monographs：
 [1].	吕铁军，高晖. 《面向中继的物理层传输技术》，科学出版社，447000， 2017.01.10
 
