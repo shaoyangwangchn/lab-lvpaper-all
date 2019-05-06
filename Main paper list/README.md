@@ -1,0 +1,1 @@
+[2].	Xuewei Zhang, Tiejun Lv, Yuan Ren, Wei Ni, Norman C. Beaulieu, and Y. Jay Guo, “Economical Caching for Scalable Videos in Cache-enabled Heterogeneous Networks,” IEEE Journal on Selected Areas in Communications, Accepted.
