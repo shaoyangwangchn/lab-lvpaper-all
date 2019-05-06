@@ -1,7 +1,7 @@
 # 论文清单
 
 ## SCI文章：
-[1].	Pingmu Huang, Yunqin Hao, Tiejun Lv, Jintao Xing, Jie Yang, and P. Takis Mathiopoulos, “Secure Beamforming Design in Relay-Assisted Internet of Things,” IEEE Internet of Things Journal, Accepted.<enter>
+[1].	Pingmu Huang, Yunqin Hao, Tiejun Lv, Jintao Xing, Jie Yang, and P. Takis Mathiopoulos, “Secure Beamforming Design in Relay-Assisted Internet of Things,” IEEE Internet of Things Journal, Accepted.<space><space><enter>
 [2].	Xuewei Zhang, Tiejun Lv, Yuan Ren, Wei Ni, Norman C. Beaulieu, and Y. Jay Guo, “Economical Caching for Scalable Videos in Cache-enabled Heterogeneous Networks,” IEEE Journal on Selected Areas in Communications, Accepted.
 [3].	Chiyang Xiao, Jie Zeng, Wei Ni, Xin Su, Ren Ping Liu, Tiejun Lv, and Jing Wang, “MIMO-NOMA for Ultra-Reliable Low-Latency Communications,” IEEE Journal on Selected Areas in Communications, vol. 37, no. 4, pp. 780-794, Apr. 2019.
 [4].	Jie Zeng, Tiejun Lv, Renping Liu, Xin Su, Mingyao Peng, Chang Wang, and Jiajia Mei, “Investigation on Evolving Single-carrier NOMA into Multi-carrier NOMA in 5G,” IEEE Access, vol. 6, pp. 48268- 48288, Oct. 2018.
